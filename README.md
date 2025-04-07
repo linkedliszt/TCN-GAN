@@ -12,6 +12,7 @@ Implementations:
 
 Reference Code and Papers:
 - [QuantGAN2019](https://arxiv.org/abs/1907.06673)
+- [RCont2001](http://rama.cont.perso.math.cnrs.fr/pdf/empirical.pdf)
 - [ICascha](https://github.com/ICascha/QuantGANs-replication)
 - [PakAndrey](https://github.com/PakAndrey/QuantGANforRisk)
 - [JamesSullivan](https://github.com/JamesSullivan/temporalCN/tree/main)
