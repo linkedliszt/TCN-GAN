@@ -7,8 +7,8 @@ Implementations:
 3. PyTorch Causal TCN GAN (replication of QuantGAN)
 
 Reference Code and Papers:
-[QuantGAN2019](https://arxiv.org/abs/1907.06673)
-[ICascha](https://github.com/ICascha/QuantGANs-replication)
-[PakAndrey](https://github.com/PakAndrey/QuantGANforRisk)
-[JamesSullivan](https://github.com/JamesSullivan/temporalCN/tree/main)
-[TCN](https://github.com/locuslab/TCN)
+- [QuantGAN2019](https://arxiv.org/abs/1907.06673)
+- [ICascha](https://github.com/ICascha/QuantGANs-replication)
+- [PakAndrey](https://github.com/PakAndrey/QuantGANforRisk)
+- [JamesSullivan](https://github.com/JamesSullivan/temporalCN/tree/main)
+- [TCN](https://github.com/locuslab/TCN)
